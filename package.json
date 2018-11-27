@@ -2,7 +2,8 @@
   "name": "react-mentions",
   "version": "0.0.0-development",
   "description": "React mentions input",
-  "main": "src/index.js",
+  "main": "lib/index.js",
+  "module": "es/index.js",
   "files": [
     "es",
     "lib",
