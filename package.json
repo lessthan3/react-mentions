@@ -21,21 +21,11 @@
     "test": "nwb test-react",
     "test:watch": "nwb test-react --server"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/signavio/react-mentions.git"
-  },
   "keywords": [
     "react",
     "mentions",
     "react-component"
   ],
-  "author": "Jan-Felix Schwarz",
-  "license": "BSD-3-Clause",
-  "bugs": {
-    "url": "https://github.com/signavio/react-mentions/issues"
-  },
-  "homepage": "https://github.com/signavio/react-mentions",
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "condition-circle": "^2.0.1",
