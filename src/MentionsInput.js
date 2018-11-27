@@ -384,7 +384,8 @@ class MentionsInput extends React.Component {
     this.updateHighlighterScroll()
 
     this.props.onSelect(ev)
-        // keep track of selection range / caret position
+
+    // keep track of selection range / caret position
     this.setState({
       selectionStart: ev.target.selectionStart,
       selectionEnd: ev.target.selectionEnd,
